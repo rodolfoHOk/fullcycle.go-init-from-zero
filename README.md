@@ -44,10 +44,6 @@
 
         go mod tidy
 
-- 1:30:35
-
-## 🔗 Links úteis ✨
-
 ## 🔥 Repositórios da Imersão FullCycle 8 ✨
 
 - [Arquitetura Limpa com Typescript](https://github.com/rodolfoHOk/fullcycle.typescrit-clean-arch)
